@@ -1,5 +1,15 @@
 # Medical Insurance Premium Prediction
 
+Welcome to this project. In this project we aim to build an accurate machine learning model to predict the medical insurance premium of a person depending on demographic and health habits of an individual.
+
+## Features
+- Age
+- BMI(Body Mass Index)
+- Number of children
+- Region
+- Gender (Male or Female)
+- Smoker (Yes or No)
+
 ## Dependencies
 
 ```python
